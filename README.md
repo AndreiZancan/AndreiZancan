@@ -16,7 +16,7 @@
 <br>
 
 <div style="display: inline_block" align="center">
-  <p>💻 Sou um entusiasta da programação e um desenvolvedor apaixonado em aprender novas linguagens e tecnologias. Utilizo o GitHub para compartilhar meus trabalhos e para colaborar com outros membros da comunidade. Pretendo adquirir conhecimento e crescer profissionalmente na área da programação.</p>
+  <p>🚀 Sou um entusiasta da programação e um desenvolvedor apaixonado em aprender novas linguagens e tecnologias. Utilizo o GitHub para compartilhar meus trabalhos e para colaborar com outros membros da comunidade. Pretendo adquirir conhecimento e crescer profissionalmente na área da programação.</p>
 </div>
 
 <br>
