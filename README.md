@@ -5,17 +5,13 @@
 </p>
 
 <div align="center">
-
-<p>&#128301; Meu nome é Andrei, tenho 19 anos e sou um estudante Back-end, atualmente estou aprendendo <strong>.NET</strong> e <strong>Lógica de Programação</strong>.</p>
-<!-- &#128301; = 🔭 -->
-
-<br>
-
+  <p>&#128301; Meu nome é Andrei, tenho 19 anos e sou um estudante Back-end, atualmente estou aprendendo <strong>.NET</strong> e <strong>Lógica de Programação</strong>.</p>
+  <!-- &#128301; = 🔭 -->
 </div>
 
 <br>
 
-<div style="display: inline_block" align="center">
+<div style="display: inline_block" align="center" >
   <p>🚀 Sou um entusiasta da programação e um desenvolvedor apaixonado em aprender novas linguagens e tecnologias. Utilizo o GitHub para compartilhar meus trabalhos e para colaborar com outros membros da comunidade. Pretendo adquirir conhecimento e crescer profissionalmente na área da programação.</p>
 </div>
 
