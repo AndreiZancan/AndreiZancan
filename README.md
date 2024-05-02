@@ -22,8 +22,10 @@
 
 <br>
 
+<div style="display: inline_block" align="center">
 <p>&#127919; Em busca da primeira oportunidade </p>
 <!-- &#127919; = 🎯 -->
+</div>
 
 <br>
   
