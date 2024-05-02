@@ -17,11 +17,6 @@
 
 </div>
 
-<div align="center">
-  <a href="https://github.com/AndreiZancan"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=AndreiZancan&theme=dark&show_icons=true&hide_border=false&count_private=true"/></a>
-  <a href="https://github.com/AndreiZancan"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiZancan&layout=compact&langs_count=7&theme=dark"/></a>
-</div>
-
 <br>
 
 <div style="display: inline_block" align="center">
