@@ -9,7 +9,6 @@
 <p>&#128301; Meu nome é Andrei, tenho 19 anos e sou um estudante Back-end, atualmente estou aprendendo <strong>.NET</strong> e <strong>Lógica de Programação</strong>.</p>
 <!-- &#128301; = 🔭 -->
 
-
 <br>
 
 </div>
@@ -23,8 +22,15 @@
 <br>
 
 <div style="display: inline_block" align="center">
-<p>&#127919; Em busca da primeira oportunidade </p>
-<!-- &#127919; = 🎯 -->
+  <p>&#127919; Em busca da primeira oportunidade </p>
+  <!-- &#127919; = 🎯 -->
+</div>
+
+<div style="display: inline_block" align="center">
+  <img align="center" alt=".NET" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg"> 
+  <img align="center" alt="Visual Studio" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg"> 
+  <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg">
 </div>
 
 <br>
