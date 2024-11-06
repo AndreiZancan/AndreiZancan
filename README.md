@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <p>&#128301; Meu nome é Andrei, tenho 19 anos e sou um estudante Back-end, atualmente estou aprendendo <strong>.NET</strong> e <strong>Lógica de Programação</strong>.</p>
+  <p>&#128301; Meu nome é Andrei, tenho 19 anos e sou um estudante Back-end, atualmente estou aprendendo <strong>ASP.NET, C#, SQL Server</strong>.</p>
   <!-- &#128301; = 🔭 -->
 </div>
 
